@@ -15,8 +15,7 @@ public class CarrinhoProduto {
 	private String descricao;
 	private String telefone;
 	private double valor;
-	
-	
+	private String peppa;	
 
 	public long getId() {
 		return id;
